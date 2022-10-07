@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="pi">π</string>
+    <string name="factorial">X!</string>
+    <string name="open_para">(</string>
+    <string name="close_para">)</string>
+    <string name="allclear">AC</string>
+    <string name="clear">C</string>
+    <string name="percent">%</string>
+    <string name="divide_simble">/</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="multiply_simble">*</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="minus_simble">-</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="plus_simble">+</string>
+    <string name="double_zero">00</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+</resources>
